@@ -1,2 +1,2 @@
-# psx-farm-script
-This script is for farming gems in psx areas.
+_G.UserID = kpjugg
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vestyx/PetSimulatorXAutoFarm/main/HasteFarm.lua",true))()```
